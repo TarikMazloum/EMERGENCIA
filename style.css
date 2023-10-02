@@ -9,7 +9,7 @@ navbar navbar-expand-lg a {
 }
 
 .link {
-    color: #fff;
+    color: #000;
 }
 
 .ka {
@@ -30,9 +30,21 @@ navbar navbar-expand-lg a {
     color: #fff;
 }
 
-.container-fluid {
-    margin-top: 100px;
+main {
+    background: url(img/atras.png);
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+.conteudo {
+    background: url(img/atras.png);
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
+.fundinho {
+    background-color: #c91727;
 }
 
 .catar-titulo {
